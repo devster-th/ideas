@@ -1,4 +1,4 @@
-# File & vesion handing
+# File & version handing
 
 Ideas about how the file name and the version relates to each other
 
